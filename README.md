@@ -1,4 +1,4 @@
-# Project Codebase for Course XXX
+# Project Codebase for Course DS6126
 
 This repository contains the codebase for implementing and benchmarking the [Oasis range filter](https://www.vldb.org/pvldb/vol17/p1911-luo.pdf), a cutting-edge learned range filter that significantly enhances performance by explicitly pruning large empty intervals in the key space and optimally allocating bitmap lengths to the remaining intervals based on theoretical analysis.
 
